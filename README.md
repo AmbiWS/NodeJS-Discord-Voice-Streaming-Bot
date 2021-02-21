@@ -28,3 +28,6 @@ If you're not interested in lectures thats fine, ProfessorBot can perform as mus
 
 ### Screenshots
 
+![Screenshot 1](https://github.com/AmbiWS/NodeJS-Discord-Voice-Streaming-Bot/blob/main/img/Schedule.JPG)  
+
+![Screenshot 2](https://github.com/AmbiWS/NodeJS-Discord-Voice-Streaming-Bot/blob/main/img/News.JPG)  
